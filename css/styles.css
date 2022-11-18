@@ -1,0 +1,20 @@
+.speakerbg {
+    background-color: aqua;
+    height: 200px;
+}
+.speakerbg2 {
+    background-color: blue;
+    height: 200px;
+}
+.speakerbg3 {
+    background-color: rgb(255, 0, 251);
+    height: 200px;
+}
+.speakerbg4 {
+    background-color: rgb(0, 255, 55);
+    height: 200px;
+}
+.venue {
+    background-color: crimson;
+    height: 100%;
+}
